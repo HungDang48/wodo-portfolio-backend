@@ -1,0 +1,526 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Áo sơ mi nam",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "2",
+      "name": "Áo sơ mi nữ",
+      "genders": "nữ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "3",
+      "name": "Áo Măng Tô",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "4",
+      "name": "Áo Măng Tô",
+      "genders": "nữ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "5",
+      "name": "quần cargo",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "6",
+      "name": "quần cargo",
+      "genders": "nữ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "7",
+      "name": "quần kaki",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "8",
+      "name": "quần kaki",
+      "genders": "nữ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "7",
+      "name": "set đồ nam",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "8",
+      "name": "set đồ nữ",
+      "genders": "nữ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": "9",
+      "name": "T-shirt",
+      "genders": "nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Áo thun DACretro",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL,XXL,XXXL,XXXXL",
+      "color": "black",
+      "price": 290000,
+      "image": "https://dosi-in.com/file/detailed/400/dosiin-dac-retro-ao-thun-dacretro-rapper-asapmob-phong-cach-hiphop-400459400459.jpg?w=1000&h=1000&fit=fill&fm=webp"
+    },
+    {
+      "id": "2",
+      "name": "Quần kaki ống rộng",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "black,kaki",
+      "price": 340000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltb0sps5bqo488.webp"
+    },
+    {
+      "id": "3",
+      "name": "áo sơ mi nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "L,XL,XXL",
+      "color": "black",
+      "price": 120000,
+      "image": "https://lados.vn/wp-content/uploads/2024/07/z2411209596037-cff07cb9281741d50cd51f4f63b49688-1.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "áo sơ mi nũ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 2,
+      "size": "M,L,XL,XXL,XXXL,XXXXL",
+      "color": "black",
+      "price": 300000,
+      "image": "https://product.hstatic.net/1000392339/product/010222205won_at049_h-01_13c8f30d915f43c4a3e19547e573e3ea_master.jpg"
+    },
+    {
+      "id": "5",
+      "name": "quần jogger",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "L,XL,XXL",
+      "color": "black",
+      "price": 250000,
+      "image": "https://img.lazcdn.com/g/p/bc618bf1e54171b9566353f6532208eb.jpg_720x720q80.jpg"
+    },
+    {
+      "id": "5",
+      "name": "set đồ vintage ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "black",
+      "price": 590000,
+      "image": "https://menshop79.vn/wp-content/uploads/2022/12/phong-cach-vintage-nam-9.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Set đồ vintage",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "black",
+      "price": 590000,
+      "image": "https://menshop79.vn/wp-content/uploads/2022/12/phong-cach-vintage-nam-9.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Áo khoác gió telab",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL,XXL",
+      "color": "blue,black",
+      "price": 450000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/415/697/products/ak046.png?v=1701405178907"
+    },
+    {
+      "id": "8",
+      "name": "Quần cargo túi hộp",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 5,
+      "size": "L,XL,XXL",
+      "color": "olive,black",
+      "price": 380000,
+      "image": "https://s3.ap-southeast-1.amazonaws.com/thegmen.vn/2023/11/16994321763372nifjj.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Áo thun lana du dây",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL,XXL",
+      "color": "white,black",
+      "price": 150000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-luf3g7hqpqmp59"
+    },
+    {
+      "id": "10",
+      "name": "Áo khoác bomber cổ điển",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "black,green",
+      "price": 450000,
+      "image": "https://image.made-in-china.com/2f0j00ckTbQBRMaHqW/Customize-Varsity-Jacket-Vintage-Puffer-Jacket-Sports-Bomber-Jacket-Men.webp"
+    },
+    {
+      "id": "11",
+      "name": "Set đồ vintage 2",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "grey,blue",
+      "price": 600000,
+      "image": "https://media.routine.vn/prod/media/phong-cach-vintage-la-gi-7.webp"
+    },
+    {
+      "id": "12",
+      "name": "Quần jean ống rộng",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "blue,black",
+      "price": 500000,
+      "image": "https://product.hstatic.net/1000285106/product/38480f0d725fb801e14e6_030034e2b697450cab7c1c4c935ad6f1.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Áo khoác hoodie khóa kéo",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "black,white,grey",
+      "price": 350000,
+      "image": "https://product.hstatic.net/1000308345/product/img_4095_109a93ea973343da80e8e0b2070310ce_master.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Quần short nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "black,navy",
+      "price": 200000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMF5AEVr5tCoNe1kt1pLTJHbpdy9Gvjmt8Q&s"
+    },
+    {
+      "id": "15",
+      "name": "Set đồ vintage 3",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "brown,beige",
+      "price": 750000,
+      "image": "https://m.yodycdn.com/blog/phoi-do-vintage-nam-yodyvn-9fa63aac-1222-4bc1-92eb-cd1994c81086.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Quần cargo lửng",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 5,
+      "size": "M,L,XL",
+      "color": "khaki,green",
+      "price": 320000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lit5zqky0mhebb"
+    },
+    {
+      "id": "17",
+      "name": "Áo khoác cardigan",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "grey,navy",
+      "price": 380000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpXM8MZo-tha0Eoy598wyUZgcOHfM_lo7aA&s"
+    },
+    {
+      "id": "18",
+      "name": "Quần jogger ống rộng",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "L,XL,XXL",
+      "color": "black,grey",
+      "price": 290000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrlvp21PWu6AVlO83c9bEblB1el9OfZ5VF-w&s"
+    },
+    {
+      "id": "19",
+      "name": "Áo phông form rộng ATHANOR",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL,XXL",
+      "color": "white,black,red",
+      "price": 180000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvd0hwq7f0y55e"
+    },
+    {
+      "id": "20",
+      "name": "Áo Len Nam GhiLe SUKIYA",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL",
+      "color": "blue,grey",
+      "price": 400000,
+      "image": "https://down-vn.img.susercontent.com/file/85d6d58409e7f6c394580872a91eae42"
+    },
+    {
+      "id": "21",
+      "name": "Quần Jean PEALO",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "blue,black",
+      "price": 550000,
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lvj21gfhn43x70"
+    },
+    {
+      "id": "22",
+      "name": "Set đồ thanh lịch nam 1",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "white,blue",
+      "price": 700000,
+      "image": "https://5sfashion.vn/storage/upload/images/ckeditor/mGZ3ysTlGKozc5TM7vH32q1AKGGTvcgZjjEm3EIc.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Áo hoodie nam basic",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "black,grey",
+      "price": 350000,
+      "image": "https://zizoou.com/cdn/shop/products/Ao-hoodie-1-Grey-4-ZiZoou-Store_4472x.jpg?v=1640771799"
+    },
+    {
+      "id": "24",
+      "name": "Quần shorts vải",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "black,green",
+      "price": 220000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgMBPehG8RyobsYhmBmoD7GOdQouhaCrkiA&s"
+    },
+    {
+      "id": "25",
+      "name": "Áo sơ mi sọc kẻ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL",
+      "color": "white,blue",
+      "price": 250000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+    },
+    {
+      "id": "26",
+      "name": "Quần jogger nỉ",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "M,L,XL",
+      "color": "black,grey",
+      "price": 300000,
+      "image": "https://cdn.boo.vn/media/catalog/product/1/_/1.2.24.3.18.001.123.23-10100035-n-2.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Set đồ nỉ unisex",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "black,white",
+      "price": 800000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7OubjehskuPRnL0hUlInetZ5yuC2j9kv6A&s"
+    },
+    {
+      "id": "28",
+      "name": "Áo khoác gió",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "red,blue",
+      "price": 420000,
+      "image": "https://product.hstatic.net/1000312752/product/afdt185-8-a_10c97d53e77f4b87b7c6ac26a465eccb.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Áo polo nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL,XXL",
+      "color": "black,white,grey",
+      "price": 200000,
+      "image": "https://deltasport.vn/wp-content/uploads/2024/02/PO102M1-ao-polo-nam-xanh-ly-459K-8.png"
+    },
+    {
+      "id": "30",
+      "name": "Quần kaki dài",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 6,
+      "size": "L,XL,XXL",
+      "color": "khaki,black",
+      "price": 350000,
+      "image": "https://down-vn.img.susercontent.com/file/e9f9c28895a9cfe099fdc32cd991d9a1"
+    },
+    {
+      "id": "31",
+      "name": "Áo khoác dù nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "black,green",
+      "price": 450000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpwOzKfo7r57TjSIK-KrNcZLhG_4Sku9tLA&s"
+    },
+    {
+      "id": "32",
+      "name": "Quần thể thao nam",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "L,XL,XXL",
+      "color": "grey,black",
+      "price": 280000,
+      "image": "https://fitme.vn/cdn/shop/files/quan-jogger-tui-hop-the-thao-nam-space-grey_3.jpg?v=1703494142&width=2048"
+    },
+    {
+      "id": "33",
+      "name": "Set đồ mặc nhà",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "M,L,XL",
+      "color": "blue,pink",
+      "price": 500000,
+      "image": "https://example.com/set-do-mac-nha.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Áo sơ mi tay ngắn",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 1,
+      "size": "M,L,XL",
+      "color": "white,blue",
+      "price": 270000,
+      "image": "https://example.com/ao-somi-tay-ngan.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Áo khoác denim",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 3,
+      "size": "M,L,XL",
+      "color": "blue,black",
+      "price": 600000,
+      "image": "https://example.com/ao-khoac-denim.jpg"
+    },
+    {
+      "id": "36",
+      "name": "Quần thể thao ống bó",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "M,L,XL",
+      "color": "black,grey",
+      "price": 300000,
+      "image": "https://example.com/quan-the-thao-ong-bo.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Set đồ đi biển",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "white,blue",
+      "price": 550000,
+      "image": "https://example.com/set-do-di-bien.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Quần jogger caro",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 4,
+      "size": "L,XL,XXL",
+      "color": "black,white",
+      "price": 320000,
+      "image": "https://example.com/quan-jogger-caro.jpg"
+    },  
+    {
+      "id": "39",
+      "name": "Set đồ đi biển",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
+      "categoryId": 7,
+      "size": "L,XL,XXL",
+      "color": "white,blue",
+      "price": 550000,
+      "image": "https://example.com/set-do-di-bien.jpg"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}

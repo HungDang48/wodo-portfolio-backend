@@ -1,0 +1,20 @@
+GET http://localhost:3000/products
+
+
+
+
+
+
+####
+
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{ 
+    "name": "á đù id nó bị cái d j z",
+    "categoryId": 2,
+"size": "M,L,XL,XXL,XXXL,XXXXL",
+     "color": "black",
+        "price": 300000,
+        "image": "https://product.hstatic.net/1000392339/product/010222205won_at049_h-01_13c8f30d915f43c4a3e19547e573e3ea_master.jpg"
+}
