@@ -1,4 +1,54 @@
 {
+  "User": [
+    {
+      "id": 2,
+      "UserID": 1,
+      "name": "Đặng Việt Hưng",
+      "username": "gologolo4567@gmail.com",
+      "email": "gologolo4567@gmail.com",
+      "birthday": "2024-11-03",
+      "gender": "female",
+      "password": "123123",
+      "createdAt": 1731329457289,
+      "updatedAt": 1731329457289
+    },
+    {
+      "id": 3,
+      "UserID": 2,
+      "name": "Đặng Việt Hưng",
+      "username": "gologolo45676@gmail.com",
+      "email": "gologolo45676@gmail.com",
+      "birthday": "2024-11-15",
+      "gender": "female",
+      "password": "123123",
+      "createdAt": 1731329489464,
+      "updatedAt": 1731329489464
+    },
+    {
+      "id": 4,
+      "UserID": 3,
+      "name": "Đặng Việt Hưng",
+      "username": "gologolo4567@gmail.com",
+      "email": "gologolo456723@gmail.com",
+      "birthday": "2024-11-15",
+      "gender": "male",
+      "password": "123123",
+      "createdAt": 1731329653255,
+      "updatedAt": 1731329653255
+    },
+    {
+      "id": 5,
+      "UserID": 4,
+      "name": "Đặng Việt Hưng",
+      "username": "gologolo4567@gmail.com",
+      "email": "gologolo567@gmail.com",
+      "birthday": "2024-11-09",
+      "gender": "female",
+      "password": "123123",
+      "createdAt": 1731332844468,
+      "updatedAt": 1731332844468
+    }
+  ],
   "categories": [
     {
       "id": "1",
@@ -626,47 +676,47 @@
     {
       "id": "34",
       "products": "34",
-      "name": "Áo sơ mi sọc kẻ",
+      "name": " Quần Tây nam",
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
       "categoryId": 2,
-      "gendersID": 2,
-      "newSaleID": 1,
+      "gendersID": 1,
+      "newSaleID": 3,
       "hotSaleID": 1,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "image": "https://product.hstatic.net/1000402464/product/dp23ss04c-ep_black___11__e70fff726a264c41bb40f27a3ec649f1_master.jpg"
     },
     {
       "id": "35",
       "products": "35",
-      "name": "Áo sơ mi sọc kẻ",
+      "name": "Quần Tây nam 2",
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
       "categoriesID": 4,
-      "gendersID": 2,
+      "gendersID": 1,
       "newSaleID": 1,
       "hotSaleID": 1,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "image": "https://thoitrangmanza.com/wp-content/uploads/2021/05/Quan-tay-nam-trung-nien-manza-ma-822-v2.jpg"
     },
     {
       "id": "36",
       "products": "36",
-      "name": "Áo sơ mi sọc kẻ",
+      "name": "quần âu cạp cao nam",
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
       "categoriesID": 4,
-      "gendersID": 2,
-      "newSaleID": 1,
+      "gendersID": 1,
+      "newSaleID": 3,
       "hotSaleID": 1,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "image": "https://bizweb.dktcdn.net/100/405/002/products/82-6bacf6a1-bc57-4773-9c38-230a1c559149.jpg?v=1673320892753"
     },
     {
       "id": "37",
@@ -686,32 +736,32 @@
     {
       "id": "38",
       "products": "39",
-      "name": "Áo sơ mi sọc kẻ",
+      "name": "quần Tây basic nam",
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
       "categoriesID": 4,
-      "gendersID": 2,
+      "gendersID": 1,
       "newSaleID": 1,
       "hotSaleID": 1,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "image": "https://product.hstatic.net/1000402464/product/dp23ss01c-nm_khaki___2__6262e5872e7b46339651d31ab29f45ba_master.jpg"
     },
     {
       "id": "40",
       "products": "40",
-      "name": "Áo sơ mi sọc kẻ",
+      "name": "quần âu nam",
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
       "categoryId": 2,
-      "gendersID": 2,
+      "gendersID": 1,
       "newSaleID": 1,
       "hotSaleID": 1,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "image": "https://product.hstatic.net/1000388805/product/quan-tay-nam-mau-xanh-ke-o2_4184a8dc28b84e23a41ff1daf1844e5b.jpg"
     },
     {
       "id": "41",
