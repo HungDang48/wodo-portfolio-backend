@@ -1,4 +1,202 @@
 {
+  "Orders": [
+    {
+      "OrderID": 48779,
+      "orderStatus": "Pending",
+      "orderDate": "2024-11-25T13:21:37.508Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 4,
+          "name": "áo sơ mi nũ",
+          "quantity": 1,
+          "price": 300000,
+          "size": "XXXXL",
+          "color": "black"
+        },
+        {
+          "productId": 2,
+          "name": "Quần kaki ống rộng",
+          "quantity": 9,
+          "price": 340000,
+          "size": "XXL",
+          "color": "black"
+        },
+        {
+          "productId": 10,
+          "name": "Áo thun lana du dây",
+          "quantity": 8,
+          "price": 150000,
+          "size": "XXL",
+          "color": "white"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "ádas",
+        "GuestNumber": "ádasd",
+        "Address": "ádasd"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 4580000,
+      "discount": 0,
+      "createdAt": 1732540897527,
+      "updatedAt": 1732540897527,
+      "id": 15
+    },
+    {
+      "OrderID": 88678,
+      "orderStatus": "Pending",
+      "orderDate": "2024-11-25T13:24:00.385Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 21,
+          "name": "Áo Len Nam GhiLe SUKIYA",
+          "quantity": 1,
+          "price": 400000,
+          "size": "M",
+          "color": "blue"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "adsasd",
+        "GuestNumber": "adsasd",
+        "Address": "adasd"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 420000,
+      "discount": 0,
+      "createdAt": 1732541040400,
+      "updatedAt": 1732541040400,
+      "id": 16
+    },
+    {
+      "OrderID": 76410,
+      "orderStatus": "Pending",
+      "orderDate": "2024-11-25T13:28:47.993Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 2,
+          "name": "Quần kaki ống rộng",
+          "quantity": 1,
+          "price": 340000,
+          "size": "XXL",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "aaaaaaaaa",
+        "GuestNumber": "aaaaaaaaaaa",
+        "Address": "aaaaaaaaaaaaaaa"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 360000,
+      "discount": 0,
+      "createdAt": 1732541328006,
+      "updatedAt": 1732541328006,
+      "id": 17
+    },
+    {
+      "OrderID": 45571,
+      "orderStatus": "Pending",
+      "orderDate": "2024-11-25T13:44:09.655Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 2,
+          "name": "Quần kaki ống rộng",
+          "quantity": 10,
+          "price": 340000,
+          "size": "XXL",
+          "color": "kaki"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "222222222",
+        "GuestNumber": "2222222222222",
+        "Address": "222222222222"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 3420000,
+      "discount": 0,
+      "createdAt": 1732542249669,
+      "updatedAt": 1732542249669,
+      "id": 18
+    },
+    {
+      "OrderID": 68801,
+      "orderStatus": "Delivered",
+      "orderDate": "2024-11-25T14:31:05.937Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 1,
+          "name": "Áo thun DACretro",
+          "quantity": 1,
+          "price": "290000",
+          "size": "XL",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "111",
+        "GuestNumber": "111111",
+        "Address": "111111"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 252000,
+      "discount": 58000,
+      "createdAt": 1732545065958,
+      "updatedAt": 1732545065958,
+      "id": 19
+    },
+    {
+      "OrderID": 97494,
+      "orderStatus": "Delivered",
+      "orderDate": "2024-11-25T17:25:37.856Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 1,
+      "products": [
+        {
+          "productId": 5,
+          "name": "quần jogger",
+          "quantity": 1,
+          "price": 250000,
+          "size": "L",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "3333333",
+        "GuestNumber": "3333333",
+        "Address": "3333333333"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 270000,
+      "discount": 0,
+      "createdAt": 1732555537874,
+      "updatedAt": 1732555537874,
+      "id": 20
+    }
+  ],
   "Admins": [
     {
       "id": 1,
@@ -22,22 +220,36 @@
       "email": "gologolo4567@gmail.com",
       "birthday": "2024-11-28",
       "gender": "female",
-      "password": "123123",
+      "password": "321321",
       "createdAt": 1731639558195,
       "updatedAt": 1731639558195,
       "birthDate": "2024-11-28"
     },
     {
-      "id": 7,
-      "UserID": 6,
-      "name": "Dng Hung1234",
-      "username": "gologolo4567@gmail.com",
-      "email": "gologolo4567@gmail.com",
-      "birthday": "2024-11-13",
-      "gender": "other",
+      "id": 8,
+      "UserID": 7,
+      "name": "HND",
+      "username": "VHUNG48",
+      "email": "gologolo45678@gmail.com",
+      "birthday": "2024-11-28",
+      "gender": "male",
       "password": "123123",
-      "createdAt": 1731743581625,
-      "updatedAt": 1731743581625
+      "createdAt": 1731910979633,
+      "updatedAt": 1731910979633,
+      "birthDate": "2024-11-28"
+    },
+    {
+      "id": 10,
+      "UserID": 9,
+      "name": "Nguyễn Văn A",
+      "username": "VanA",
+      "email": "gologolo@gmail.com",
+      "birthday": "2001-06-21",
+      "gender": "male",
+      "password": "1234567",
+      "createdAt": 1732112549343,
+      "updatedAt": 1732112549343,
+      "birthDate": "2001-06-21"
     }
   ],
   "categories": [
@@ -149,9 +361,9 @@
       "gendersID": 3,
       "newSaleID": 1,
       "hotSaleID": 1,
-      "size": "M,L,XL,XXL,XXXL,XXXXL",
+      "size": "XL,XXL,XXXL",
       "color": "black",
-      "price": 290000,
+      "price": "290000",
       "image": "https://dosi-in.com/file/detailed/400/dosiin-dac-retro-ao-thun-dacretro-rapper-asapmob-phong-cach-hiphop-400459400459.jpg?w=1000&h=1000&fit=fill&fm=webp"
     },
     {
@@ -753,8 +965,37 @@
       "color": "white,blue",
       "price": 250000,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+    },
+    {
+      "id": 44,
+      "productId": "44",
+      "name": "Quần Kaki Nam ống rộng",
+      "createdAt": 1731818859227,
+      "updatedAt": 1731818859227,
+      "categoriesID": 11,
+      "gendersID": 2,
+      "newSaleID": true,
+      "hotSaleID": true,
+      "size": "XL,XXL,XXXL",
+      "color": "BE",
+      "price": "350000",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lxni709dobmj7c.webp"
+    },
+    {
+      "id": 45,
+      "productId": "45",
+      "name": "aaaaaaa",
+      "createdAt": 1732542385162,
+      "updatedAt": 1732542385162,
+      "categoriesID": 7,
+      "gendersID": 2,
+      "newSaleID": false,
+      "hotSaleID": true,
+      "size": "XL,XXL,XXXL",
+      "color": "BE",
+      "price": "01",
+      "image": ""
     }
-   
   ],
   "profile": {
     "name": "Po"
