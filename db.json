@@ -2,9 +2,9 @@
   "Orders": [
     {
       "OrderID": 7997,
-      "orderStatus": "Pending",
+      "orderStatus": "Shipped",
       "orderDate": "2024-11-27T13:48:06.655Z",
-      "paymentStatus": "Unpaid",
+      "paymentStatus": "Paid",
       "paymentMethod": "cod",
       "UserID": 5,
       "products": [
@@ -29,32 +29,225 @@
       "createdAt": 1732715286669,
       "updatedAt": 1732715286669,
       "id": 23
+    },
+    {
+      "OrderID": 60314,
+      "orderStatus": "Pending",
+      "orderDate": "2024-12-02T08:59:09.075Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 10,
+      "products": [
+        {
+          "productId": 6,
+          "name": "quần cargo 1",
+          "quantity": 1,
+          "price": 350000,
+          "size": "XXL",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "11111",
+        "GuestNumber": "11111111",
+        "Address": "111111111111"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 300000,
+      "discount": 70000,
+      "createdAt": 1733129949094,
+      "updatedAt": 1733129949094,
+      "id": 24
+    },
+    {
+      "OrderID": 32610,
+      "orderStatus": "Delivered",
+      "orderDate": "2024-12-02T12:29:02.613Z",
+      "paymentStatus": "Paid",
+      "paymentMethod": "cod",
+      "UserID": 12,
+      "products": [
+        {
+          "productId": 6,
+          "name": "quần cargo 1",
+          "quantity": 4,
+          "price": 350000,
+          "size": "XXL",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "hung",
+        "GuestNumber": "0788614615",
+        "Address": "123123"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 1280000,
+      "discount": 140000,
+      "createdAt": 1733142542629,
+      "updatedAt": 1733142542629,
+      "id": 25
+    },
+    {
+      "OrderID": 26893,
+      "orderStatus": "Pending",
+      "orderDate": "2024-12-02T13:11:33.981Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 12,
+      "products": [
+        {
+          "productId": 5,
+          "name": "quần jogger",
+          "quantity": 1,
+          "price": 250000,
+          "size": "L",
+          "color": "black"
+        },
+        {
+          "productId": 6,
+          "name": "quần cargo 1",
+          "quantity": 1,
+          "price": 350000,
+          "size": "XXL",
+          "color": "white"
+        },
+        {
+          "productId": 8,
+          "name": "Áo khoác gió telab",
+          "quantity": 1,
+          "price": 450000,
+          "size": "M",
+          "color": "blue"
+        },
+        {
+          "productId": 10,
+          "name": "Áo thun lana du dây",
+          "quantity": 1,
+          "price": "150000",
+          "size": "M",
+          "color": "white"
+        },
+        {
+          "productId": 12,
+          "name": "áo bomber Pandax",
+          "quantity": 1,
+          "price": 600000,
+          "size": "L",
+          "color": "grey"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "2222222",
+        "GuestNumber": "23333333333",
+        "Address": "33233333333"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 1460000,
+      "discount": 360000,
+      "createdAt": 1733145093994,
+      "updatedAt": 1733145093994,
+      "id": 26
+    },
+    {
+      "OrderID": 99670,
+      "orderStatus": "Pending",
+      "orderDate": "2024-12-02T13:41:40.359Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 12,
+      "products": [
+        {
+          "productId": 8,
+          "name": "Áo khoác gió telab",
+          "quantity": 1,
+          "price": 450000,
+          "size": "M",
+          "color": "blue"
+        },
+        {
+          "productId": 11,
+          "name": "Áo khoác bomber cổ điển",
+          "quantity": 1,
+          "price": 450000,
+          "size": "M",
+          "color": "black"
+        },
+        {
+          "productId": 10,
+          "name": "Áo thun lana du dây",
+          "quantity": 1,
+          "price": "150000",
+          "size": "M",
+          "color": "white"
+        },
+        {
+          "productId": 2,
+          "name": "Quần kaki ống rộng",
+          "quantity": 6,
+          "price": "350000",
+          "size": "L",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "111112312312",
+        "GuestNumber": "132123123",
+        "Address": "123123123"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 2540000,
+      "discount": 630000,
+      "createdAt": 1733146900372,
+      "updatedAt": 1733146900372,
+      "id": 27
     }
   ],
   "Admins": [
     {
       "id": 1,
-      "UserID": 1,
+      "AdminID": 1,
       "name": "HUNGDANG",
-      "username": "gologolo4567@gmail.com",
+      "Adminname": "gologolo4567@gmail.com",
       "email": "gologolo4567@gmail.com",
       "birthday": "2024-11-12",
       "gender": "other",
       "password": "123123",
       "createdAt": 1731680881509,
-      "updatedAt": 1731680881509
+      "updatedAt": 1733130989387,
+      "username": "HungDang1"
+    },
+    {
+      "id": 2,
+      "AdminID": 2,
+      "name": "Dng Hung123",
+      "Adminname": "gologolo@gmail.com",
+      "email": "gologolo@gmail.com",
+      "birthday": "2006-02-09",
+      "gender": "male",
+      "password": "123123",
+      "createdAt": 1732889214904,
+      "updatedAt": 1733130985174,
+      "username": "HungDang2"
+    },
+    {
+      "id": 3,
+      "AdminID": 3,
+      "name": "Đặng Việt Hưng",
+      "username": "HungDang",
+      "email": "gologolo45678@gmail.com",
+      "birthday": "2024-12-05",
+      "gender": "female",
+      "password": "123123",
+      "createdAt": 1733078312397,
+      "updatedAt": 1733078312397
     }
   ],
   "User": [
-    {
-      "name": "Đặng Việt Hưng",
-      "username": "HungDang",
-      "birthday": "2001-08-04",
-      "gender": "Male",
-      "password": "123123",
-      "email": "gologolo4567@gmail.com",
-      "id": 6
-    },
     {
       "id": 8,
       "UserID": 7,
@@ -80,11 +273,24 @@
       "createdAt": 1732112549343,
       "updatedAt": 1732112549343,
       "birthDate": "2001-06-21"
+    },
+    {
+      "id": 13,
+      "UserID": 12,
+      "name": "Nguyễn Văn A",
+      "username": "Nguyễn Văn A",
+      "email": "gologolo123@gmail.com",
+      "birthday": "2024-12-12",
+      "gender": "male",
+      "password": "321321",
+      "createdAt": 1733142466071,
+      "updatedAt": 1733142466071,
+      "birthDate": "2024-12-12"
     }
   ],
   "categories": [
     {
-      "id": "1",
+      "id": 1,
       "categoriesID": 1,
       "name": "Áo sơ mi nam",
       "gendersID": 1,
@@ -92,7 +298,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "2",
+      "id": 2,
       "categoriesID": 2,
       "name": "Áo sơ mi nữ",
       "gendersID": 2,
@@ -100,7 +306,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "3",
+      "id": 3,
       "categoriesID": 3,
       "name": "áo vest nam",
       "gendersID": 1,
@@ -108,7 +314,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "4",
+      "id": 4,
       "categoriesID": 4,
       "name": "áo vest nữ",
       "gendersID": 2,
@@ -116,7 +322,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "5",
+      "id": 5,
       "categoriesID": 5,
       "name": "áo polo",
       "gendersID": 1,
@@ -124,7 +330,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "6",
+      "id": 6,
       "categoriesID": 6,
       "name": "áo croptop",
       "gendersID": 2,
@@ -132,7 +338,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "7",
+      "id": 7,
       "categoriesID": 7,
       "name": "áo nỉ nam",
       "gendersID": 1,
@@ -140,7 +346,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "8",
+      "id": 8,
       "categoriesID": 8,
       "name": "áo nỉ nữ",
       "gendersID": 2,
@@ -148,7 +354,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "9",
+      "id": 9,
       "categoriesID": 9,
       "name": "T-shirt",
       "gendersID": 3,
@@ -156,7 +362,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "10",
+      "id": 10,
       "categoriesID": 10,
       "name": "quần túi hộp",
       "gendersID": 3,
@@ -164,7 +370,7 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "11",
+      "id": 11,
       "categoriesID": 11,
       "name": "quần kaki",
       "gendersID": 3,
@@ -172,119 +378,120 @@
       "updatedAt": 1616346753759
     },
     {
-      "id": "12",
+      "id": 12,
       "categoriesID": 12,
       "name": "áo khoác",
       "gendersID": 3,
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759
+    },
+    {
+      "id": 13,
+      "name": "QUẦN ĐÙI",
+      "categoriesID": 13,
+      "gendersID": 3,
+      "createdAt": 1733142708798,
+      "updatedAt": 1733142708798
     }
   ],
   "products": [
     {
       "id": 2,
-      "productId": "2",
       "name": "Quần kaki ống rộng",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 11,
       "gendersID": 3,
-      "newSaleID": false,
-      "hotSaleID": false,
-      "size": "L,XL,XXL",
+      "newSaleID": true,
+      "hotSaleID": true,
+      "size": "L,XL,XXL,XXXL",
       "color": "black,kaki",
-      "price": "340000",
-      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltb0sps5bqo488.webp"
+      "price": "350000",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltb0sps5bqo488.webp",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 3,
-      "productId": "3",
       "name": "áo sơ mi nam",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 1,
       "gendersID": 1,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "L,XL,XXL",
       "color": "black",
       "price": 120000,
-      "image": "https://lados.vn/wp-content/uploads/2024/07/z2411209596037-cff07cb9281741d50cd51f4f63b49688-1.jpeg"
+      "image": "https://lados.vn/wp-content/uploads/2024/07/z2411209596037-cff07cb9281741d50cd51f4f63b49688-1.jpeg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 4,
-      "productId": "4",
       "name": "áo sơ mi nũ",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 2,
       "gendersID": 2,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "M,L,XL,XXL,XXXL,XXXXL",
       "color": "black",
       "price": 300000,
-      "image": "https://product.hstatic.net/1000392339/product/010222205won_at049_h-01_13c8f30d915f43c4a3e19547e573e3ea_master.jpg"
+      "image": "https://product.hstatic.net/1000392339/product/010222205won_at049_h-01_13c8f30d915f43c4a3e19547e573e3ea_master.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 5,
-      "productId": "5",
       "name": "quần jogger",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 10,
+      "categoriesID": 13,
       "gendersID": 3,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "L,XL,XXL",
       "color": "black",
       "price": 250000,
-      "image": "https://img.lazcdn.com/g/p/bc618bf1e54171b9566353f6532208eb.jpg_720x720q80.jpg"
+      "image": "https://img.lazcdn.com/g/p/bc618bf1e54171b9566353f6532208eb.jpg_720x720q80.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 6,
-      "productId": "6",
       "name": "quần cargo 1",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 10,
       "gendersID": 3,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "L,XL,XXL",
       "color": "white,black,green",
       "price": 350000,
-      "image": "https://im.uniqlo.com/global-cms/spa/res6be24b8a68d8a56da89b011e7d8fca9dfr.jpg"
+      "image": "https://im.uniqlo.com/global-cms/spa/res6be24b8a68d8a56da89b011e7d8fca9dfr.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 7,
-      "productId": "7",
       "name": "quần cargo 2",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 10,
       "gendersID": 3,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "L,XL,XXL",
       "color": "white,black,green",
       "price": 350000,
-      "image": "https://im.uniqlo.com/global-cms/spa/res9d8dca2c43e731b6a979bdd506bbcb93fr.jpg"
+      "image": "https://im.uniqlo.com/global-cms/spa/res9d8dca2c43e731b6a979bdd506bbcb93fr.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 8,
-      "productId": "8",
       "name": "Áo khoác gió telab",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 12,
       "gendersID": 3,
-      "newSaleID": true,
+      "newSaleID": false,
       "hotSaleID": true,
       "size": "M,L,XL,XXL",
       "color": "blue,black",
       "price": 450000,
-      "image": "https://bizweb.dktcdn.net/thumb/grande/100/415/697/products/ak046.png?v=1701405178907"
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/415/697/products/ak046.png?v=1701405178907",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 9,
@@ -313,7 +520,7 @@
       "hotSaleID": true,
       "size": "M,L,XL,XXL",
       "color": "white,black",
-      "price": 150000,
+      "price": "150000",
       "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-luf3g7hqpqmp59"
     },
     {
@@ -378,18 +585,17 @@
     },
     {
       "id": 15,
-      "productId": "15",
       "name": "Quần short cá tính",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 10,
       "gendersID": 3,
       "newSaleID": true,
-      "hotSaleID": true,
+      "hotSaleID": false,
       "size": "L,XL,XXL",
       "color": "black,navy",
       "price": 200000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMF5AEVr5tCoNe1kt1pLTJHbpdy9Gvjmt8Q&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMF5AEVr5tCoNe1kt1pLTJHbpdy9Gvjmt8Q&s",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 16,
@@ -408,33 +614,31 @@
     },
     {
       "id": 17,
-      "productId": "17",
       "name": "Quần cargo lửng",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 11,
       "gendersID": 3,
       "newSaleID": true,
-      "hotSaleID": true,
+      "hotSaleID": false,
       "size": "M,L,XL",
       "color": "khaki,green",
       "price": 320000,
-      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lit5zqky0mhebb"
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lit5zqky0mhebb",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 18,
-      "productId": "18",
       "name": "Áo khoác cardigan",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 3,
       "gendersID": 3,
       "newSaleID": true,
-      "hotSaleID": true,
+      "hotSaleID": false,
       "size": "M,L,XL",
       "color": "grey,navy",
       "price": 380000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpXM8MZo-tha0Eoy598wyUZgcOHfM_lo7aA&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpXM8MZo-tha0Eoy598wyUZgcOHfM_lo7aA&s",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 19,
@@ -573,18 +777,17 @@
     },
     {
       "id": 28,
-      "productId": "28",
       "name": "áo polo nam",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 6,
+      "categoriesID": 5,
       "gendersID": 1,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "L,XL,XXL",
       "color": "black,white",
       "price": 800000,
-      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/d52d7e242fac6dae82288d9a793c0676/a/p/apt231206._34_1.jpg"
+      "image": "https://owen.cdn.vccloud.vn/media/catalog/product/cache/d52d7e242fac6dae82288d9a793c0676/a/p/apt231206._34_1.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
     },
     {
       "id": 29,
@@ -678,12 +881,9 @@
     },
     {
       "id": 35,
-      "productId": "35",
       "name": "Quần Tây nam 2",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 4,
-      "gendersID": 1,
+      "gendersID": 3,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "M,L,XL",
@@ -693,12 +893,9 @@
     },
     {
       "id": 36,
-      "productId": "36",
       "name": "quần âu cạp cao nam",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
       "categoriesID": 4,
-      "gendersID": 1,
+      "gendersID": 3,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "M,L,XL",
@@ -707,73 +904,26 @@
       "image": "https://cf.shopee.vn/file/6ad0fc1116d692f18172a2ada0b95167"
     },
     {
-      "id": 37,
-      "productId": "37",
-      "name": "Áo sơ mi sọc kẻ",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 4,
-      "gendersID": 2,
-      "newSaleID": true,
-      "hotSaleID": true,
-      "size": "M,L,XL",
-      "color": "white,blue",
-      "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
-    },
-    {
       "id": 40,
-      "productId": "40",
       "name": "quần âu nam",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 2,
+      "categoriesID": 11,
       "gendersID": 1,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "M,L,XL",
       "color": "white,blue",
       "price": 250000,
-      "image": "https://product.hstatic.net/1000388805/product/quan-tay-nam-mau-xanh-ke-o2_4184a8dc28b84e23a41ff1daf1844e5b.jpg"
-    },
-    {
-      "id": 41,
-      "productId": "41",
-      "name": "Áo sơ mi sọc kẻ",
+      "image": "https://product.hstatic.net/1000388805/product/quan-tay-nam-mau-xanh-ke-o2_4184a8dc28b84e23a41ff1daf1844e5b.jpg",
       "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 2,
-      "gendersID": 2,
-      "newSaleID": true,
-      "hotSaleID": true,
-      "size": "M,L,XL",
-      "color": "white,blue",
-      "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
-    },
-    {
-      "id": 42,
-      "productId": "42",
-      "name": "Áo sơ mi sọc kẻ",
-      "createdAt": 1616346753759,
-      "updatedAt": 1616346753759,
-      "categoriesID": 2,
-      "gendersID": 2,
-      "newSaleID": true,
-      "hotSaleID": true,
-      "size": "M,L,XL",
-      "color": "white,blue",
-      "price": 250000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OeaQ163S76VWenXqX30fs-BY-SsY4jd99w&s"
+      "updatedAt": 1616346753759
     },
     {
       "id": 43,
-      "productId": "43",
       "name": "Áo sơ mi sọc kẻ",
+      "categoriesID": 2,
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759,
-      "categoriesID": 2,
-      "gendersID": 2,
+      "gendersID": 1,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "M,L,XL",
@@ -783,18 +933,89 @@
     },
     {
       "id": 44,
-      "productId": "44",
       "name": "Quần Kaki Nam ống rộng",
-      "createdAt": 1731818859227,
-      "updatedAt": 1731818859227,
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759,
       "categoriesID": 11,
-      "gendersID": 2,
+      "gendersID": 3,
       "newSaleID": true,
       "hotSaleID": true,
       "size": "XL,XXL,XXXL",
       "color": "BE",
       "price": "350000",
       "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lxni709dobmj7c.webp"
+    },
+    {
+      "id": 45,
+      "name": "Verse T-Shirt",
+      "categoriesID": 9,
+      "gendersID": 3,
+      "newSaleID": true,
+      "hotSaleID": true,
+      "size": "XL,XXL,XXXL",
+      "color": "Trắng,Đen",
+      "price": "220000",
+      "image": "https://product.hstatic.net/200000305259/product/tee_verse_w1_2d7f9373e25449f59b6840135eb87e48_master.jpg",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    },
+    {
+      "id": 46,
+      "productId": 46,
+      "name": "Áo Croptop Ngắn Tay",
+      "createdAt": 1733071388598,
+      "updatedAt": 1733071388598,
+      "categoriesID": 6,
+      "gendersID": 2,
+      "newSaleID": true,
+      "hotSaleID": true,
+      "size": "M,L,XL",
+      "color": "Trắng,Đen",
+      "price": "230000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNz3vICmPYQgsyre60cWWsdgy4jJziIYUIA&s"
+    },
+    {
+      "id": 47,
+      "productId": 47,
+      "name": "ÁO CROP-TOP SCM22.3",
+      "createdAt": 1733071452463,
+      "updatedAt": 1733071452463,
+      "categoriesID": 6,
+      "gendersID": 2,
+      "newSaleID": false,
+      "hotSaleID": true,
+      "size": "M,L,XL",
+      "color": "Trắng,Đen",
+      "price": "230000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9RcZPzp24AgWeXBdZ9f7q0dMvQ61lRqF5A&s"
+    },
+    {
+      "id": 48,
+      "name": "Áo Vest Nữ Công Sở Màu Xanh Đen",
+      "categoriesID": 4,
+      "gendersID": 2,
+      "newSaleID": false,
+      "hotSaleID": false,
+      "size": "M,L,XL,XXL",
+      "color": " Đen",
+      "price": "500000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOH2_mJ6zYK4VeMyQqUD5sV8cIedOZD4u7Q&s",
+      "createdAt": 1733077623164,
+      "updatedAt": 1733077623164
+    },
+    {
+      "id": 49,
+      "name": "Áo Nỉ Nữ màu Hồng",
+      "categoriesID": 8,
+      "gendersID": 2,
+      "newSaleID": false,
+      "hotSaleID": false,
+      "size": "XL,XXL,XXXL",
+      "color": "Hồng",
+      "price": "340000",
+      "image": "https://down-vn.img.susercontent.com/file/f1d3880e5f43a4b08a5e676b0ee9133f",
+      "createdAt": 1733104875246,
+      "updatedAt": 1733104875246
     }
   ],
   "profile": {
