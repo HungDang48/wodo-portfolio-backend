@@ -205,6 +205,66 @@
       "createdAt": 1733146900372,
       "updatedAt": 1733146900372,
       "id": 27
+    },
+    {
+      "OrderID": 57319,
+      "orderStatus": "Pending",
+      "orderDate": "2024-12-06T19:01:40.747Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 12,
+      "products": [
+        {
+          "productId": 5,
+          "name": "quần jogger",
+          "quantity": 26,
+          "price": 250000,
+          "size": "L",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "333333333",
+        "GuestNumber": "333333333333333",
+        "Address": "33333333333333333"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 5220000,
+      "discount": 1300000,
+      "createdAt": 1733511700777,
+      "updatedAt": 1733511700777,
+      "id": 28
+    },
+    {
+      "OrderID": 88674,
+      "orderStatus": "Pending",
+      "orderDate": "2024-12-07T12:57:22.654Z",
+      "paymentStatus": "Unpaid",
+      "paymentMethod": "cod",
+      "UserID": 9,
+      "products": [
+        {
+          "productId": 6,
+          "name": "quần cargo 1",
+          "quantity": 1,
+          "price": 350000,
+          "size": "XXL",
+          "color": "black"
+        }
+      ],
+      "shippingInfors": {
+        "GuestName": "111111111111111",
+        "GuestNumber": "1111111111",
+        "Address": "11111111111"
+      },
+      "shippingFee": 20000,
+      "courier": "Giao Hàng Tiêu Chuẩn",
+      "totalAmount": 370000,
+      "discount": 0,
+      "createdAt": 1733576242677,
+      "updatedAt": 1733576242677,
+      "id": 29
     }
   ],
   "Admins": [
@@ -384,14 +444,6 @@
       "gendersID": 3,
       "createdAt": 1616346753759,
       "updatedAt": 1616346753759
-    },
-    {
-      "id": 13,
-      "name": "QUẦN ĐÙI",
-      "categoriesID": 13,
-      "gendersID": 3,
-      "createdAt": 1733142708798,
-      "updatedAt": 1733142708798
     }
   ],
   "products": [
@@ -440,7 +492,7 @@
     {
       "id": 5,
       "name": "quần jogger",
-      "categoriesID": 13,
+      "categoriesID": 10,
       "gendersID": 3,
       "newSaleID": false,
       "hotSaleID": true,
