@@ -71,6 +71,16 @@
       "avatar": "https://app.gak.vn/storage/uploads/IzmrOE1VNtmR2eMfMPeMk6pK3QTlqVUNl6gQZXx7.jpg"
     }
   ],
+    "Projects": [
+   {	 
+    "ProjectId": 2	
+    "ProjectState": "12312",
+    "ProjectRange": "12312",
+    "ProjectTarget": "12312",
+    "ProjectDeliverables": "12312",
+  },
+    
+  ],
   
   "profile": {
     "name": "Po"
