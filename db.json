@@ -73,12 +73,12 @@
   ],
     "Projects": [
    {	 
-    "ProjectId": 2	
+    "ProjectId": 2,
     "ProjectState": "12312",
     "ProjectRange": "12312",
     "ProjectTarget": "12312",
-    "ProjectDeliverables": "12312",
-  },
+    "ProjectDeliverables": "12312"
+  }
     
   ],
   
