@@ -13,9 +13,8 @@
     "updatedAt": 1734248589433,
     "username": "HungDang1"
   }
-]
+],
     
-  ],
   "User": [
   {
     "id": 1,
@@ -61,8 +60,8 @@
     "ProjectTarget": "123",
     "ProjectDeliverables": "123"
   }
-]
-      "Projects": [
+],
+      "Blogs": [
  {
     "id": 1,
     "UserId": 1,
@@ -70,11 +69,11 @@
     "content": "Đây là nội dung bài viết.",
     "author": "Đặng Việt Hưng",
     "createdAt": "2025-04-28",
-     "img": ,
+     "img": null 
   }
-]
+],
     
-  ],
+  
   
   "profile": {
     "name": "Po"
